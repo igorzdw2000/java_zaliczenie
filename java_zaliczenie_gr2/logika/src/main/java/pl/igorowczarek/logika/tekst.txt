@@ -1,0 +1,8 @@
+1 Nazwa:  Top Gear | Typ:  Film | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 145
+2 Nazwa:  Ogniem i mieczem | Typ:  Film | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 100
+3 Nazwa:  Diuna | Typ:  Film | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 200
+4 Nazwa:  Dunkierka | Typ:  Film | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 100
+5 Nazwa:  Need for speed | Typ:  Gra | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 100
+6 Nazwa:  FIFA 22 | Typ:  Gra | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 150
+7 Nazwa:  Mafia II | Typ:  Gra | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 90
+8 Nazwa:  TEST | Typ:  Gra | Nazwisko: Owczarek | Telefon: 123456789 | Kwota: 10
