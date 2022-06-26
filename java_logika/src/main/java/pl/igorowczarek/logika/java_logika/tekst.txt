@@ -1,0 +1,6 @@
+1 Nazwa: Pan Tadeusz | Kwota: 22 | Rodzaj: book | Nazwisko: Owczarek | Wiek: 22 | 
+2 Nazwa: Krzyżacy | Kwota: 140 | Rodzaj: book | Nazwisko: Owczarek | Wiek: 22 | 
+3 Nazwa: Zemsta | Kwota: 100 | Rodzaj: book | Nazwisko: Owczarek | Wiek: 22 | 
+4 Nazwa: Yenga | Kwota: 50 | Rodzaj: game | Nazwisko: Owczarek | Wiek: 22 | 
+5 Nazwa: EuroBiznes | Kwota: 120 | Rodzaj: game | Nazwisko: Owczarek | Wiek: 22 | 
+6 Nazwa: Crudo | Kwota: 90 | Rodzaj: game | Nazwisko: Owczarek | Wiek: 22 | 
